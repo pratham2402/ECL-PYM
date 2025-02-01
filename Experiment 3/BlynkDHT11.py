@@ -8,7 +8,7 @@ import socket  # Add this import
 # Constants
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
-BLYNK_AUTH_TOKEN = 'YOUR_API_KEY'
+BLYNK_AUTH_TOKEN = ''
 
 # Initialize Blynk
 blynk = BlynkLib.Blynk(BLYNK_AUTH_TOKEN, server="blynk.cloud")
