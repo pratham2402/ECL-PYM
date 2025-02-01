@@ -2,7 +2,7 @@ import BlynkLib
 import RPi.GPIO as GPIO
 
 # Blynk Auth Token (Replace with your own token)
-BLYNK_AUTH = 'YOUR_API_KEY'
+BLYNK_AUTH = ''
 
 # Initialize Blynk
 blynk = BlynkLib.Blynk(BLYNK_AUTH, server="blynk.cloud")
