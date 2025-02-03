@@ -47,7 +47,7 @@ This repository contains various Raspberry Pi projects focused on edge computing
 - LCD Display Libraries
 
 - DHT11 Sensor Library
-(If there are a lot of them, including a `requirements.txt` file will work better.)
+
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
