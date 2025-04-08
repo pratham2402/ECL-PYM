@@ -32,7 +32,11 @@ This repository contains various Raspberry Pi projects focused on edge computing
 
 - MQTT Communication between Laptop and Raspberry Pi (Sending "Hello" messages and DHT11 values)
 
-## ⚙️ Languages or Frameworks Used
+- Edge Impulse - Gesture Recognition (upDown, leftRight, circular)
+
+- Edge Impulse - Keyword Detection (3 classes used: hey_mit, turn_off and blink)
+
+## ⚙️ Languages, Frameworks & Technologies Used
 <!--Remove the below lines and add yours -->
 - Python
 
@@ -48,9 +52,11 @@ This repository contains various Raspberry Pi projects focused on edge computing
 
 - DHT11 Sensor Library
 
+- Edge Impulse
+
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
 - Pratham Bhosale
-- Meet Chapale
-- Yash Gaikwad
+- Meet Chapale (Contributions limited to group experiments. Experiments 1 to 4)
+- Yash Gaikwad (Contributions limited to group experiments. Experiments 1 to 4)
