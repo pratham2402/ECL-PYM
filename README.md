@@ -36,6 +36,8 @@ This repository contains various Raspberry Pi projects focused on edge computing
 
 - Edge Impulse - Keyword Detection (3 classes used: hey_mit, turn_off and blink)
 
+- Edge Impulse - DHT11 (2 classes used: normal, humid)
+
 ## ⚙️ Languages, Frameworks & Technologies Used
 <!--Remove the below lines and add yours -->
 - Python
